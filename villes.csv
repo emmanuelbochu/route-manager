@@ -1,0 +1,101 @@
+city,city_id,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Paris,94,,48.8566,2.3522,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,primary,4392.2,11020000,2148271,1,Europe/Paris,FALSE,1250015082
+Nice,48,,43.7034,7.2663,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,minor,4741.8,1006402,341032,1,Europe/Paris,FALSE,1250774553
+Toulouse,87,,43.6045,1.444,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,admin,4115.2,968638,486828,2,Europe/Paris,FALSE,1250258110
+Marseille,6,Marsella|Marseilles|Marsiglia,43.2964,5.37,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,admin,3608.5,870018,868277,2,Europe/Paris,FALSE,1250774071
+Rennes,95,Roazhon,48.1147,-1.6794,France,FR,FRA,Bretagne,Bretagne,FR-E,region,admin,4320.9,727357,217728,2,Europe/Paris,FALSE,1250363682
+Grenoble,63,,45.1715,5.7224,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,8695.5,687985,157650,2,Europe/Paris,FALSE,1250071647
+Nantes,25,Naoned,47.2181,-1.5528,France,FR,FRA,Pays de la Loire,Pays de la Loire,FR-R,region,admin,4818.8,633690,314138,2,Europe/Paris,FALSE,1250091495
+Montpellier,39,,43.6119,3.8772,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,minor,5099.4,607896,290053,2,Europe/Paris,FALSE,1250819356
+Lyon,13,Lyons,45.76,4.84,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,admin,10834.2,516092,516092,2,Europe/Paris,FALSE,1250196189
+Rouen,16,,49.4428,1.0886,France,FR,FRA,Normandie,Normandie,FR-NOR,region,admin,5208.6,494382,111360,2,Europe/Paris,FALSE,1250372069
+Strasbourg,98,Strassbourg|Straszburg|Strasburg|Strassburg,48.5833,7.7458,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,admin,3637.6,465069,284677,2,Europe/Paris,FALSE,1250789140
+Nancy,75,,48.6936,6.1846,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,6987.7,434565,104885,2,Europe/Paris,FALSE,1250925250
+Metz,80,Divodurum|Mettis|Mediomatricum,49.1203,6.1778,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,2779.7,391187,116581,2,Europe/Paris,FALSE,1250778717
+Brest,3,,48.39,-4.49,France,FR,FRA,Bretagne,Bretagne,FR-E,region,minor,2819.7,300300,139602,2,Europe/Paris,FALSE,1250882453
+Mulhouse,12,Mulhousen,47.75,7.34,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,4911.7,285121,108942,2,Europe/Paris,FALSE,1250218452
+Limoges,45,Limages,45.8353,1.2625,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,minor,1685,283823,131479,2,Europe/Paris,FALSE,1250736774
+Orléans,23,,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,Centre-Val de Loire,FR-F,region,admin,4229.9,282828,116238,2,Europe/Paris,FALSE,1250441405
+Bordeaux,33,Burdigala,44.84,-0.58,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,admin,5208,257804,257068,2,Europe/Paris,FALSE,1250449238
+Le Havre,93,,49.49,0.1,France,FR,FRA,Normandie,Normandie,FR-NOR,region,minor,3615.2,235218,169733,2,Europe/Paris,FALSE,1250775297
+Lille,42,,50.6278,3.0583,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,admin,6692.4,232787,232787,2,Europe/Paris,FALSE,1250071961
+Reims,1,Rheims,49.2628,4.0347,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,3885.1,182460,182211,2,Europe/Paris,FALSE,1250608730
+Saint-Étienne,14,,45.4347,4.3903,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,2164.4,172565,172565,2,Europe/Paris,FALSE,1250000540
+Toulon,41,Toulon-sur-Mer,43.1258,5.9306,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,minor,4112.9,171953,171953,2,Europe/Paris,FALSE,1250541629
+Dijon,57,Diviodunum,47.3167,5.0167,France,FR,FRA,Bourgogne-Franche-Comté,Bourgogne-Franche-Comte,FR-BFC,region,admin,3881.6,156920,156854,2,Europe/Paris,FALSE,1250505606
+Angers,79,,47.4736,-0.5542,France,FR,FRA,Pays de la Loire,Pays de la Loire,FR-R,region,minor,3618.5,152960,152960,2,Europe/Paris,FALSE,1250962174
+Nîmes,84,Nismes,43.838,4.361,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,minor,924.5,151001,149633,2,Europe/Paris,FALSE,1250417467
+Villeurbanne,8,,45.7667,4.8803,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,,10376,147712,147712,2,Europe/Paris,FALSE,1250002615
+Clermont-Ferrand,43,Clermont,45.7831,3.0824,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,3438.8,143886,143886,2,Europe/Paris,FALSE,1250135509
+Le Mans,9,,48.0077,0.1984,France,FR,FRA,Pays de la Loire,Pays de la Loire,FR-R,region,minor,2712.6,142946,142946,2,Europe/Paris,FALSE,1250829671
+Aix-en-Provence,5,Aix,43.5263,5.4454,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,minor,769,142482,142482,2,Europe/Paris,FALSE,1250001687
+Amiens,4,,49.892,2.299,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,minor,2707.1,136105,133891,2,Europe/Paris,FALSE,1250794759
+Tours,56,,47.2436,0.6892,France,FR,FRA,Centre-Val de Loire,Centre-Val de Loire,FR-F,region,minor,3971.6,135787,135787,2,Europe/Paris,FALSE,1250635972
+Boulogne-sur-Mer,69,Boulogne,50.7264,1.6147,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,minor,4829.5,133062,40664,2,Europe/Paris,FALSE,1250693185
+Annecy,96,,45.916,6.133,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,1915.1,126924,126924,2,Europe/Paris,FALSE,1250551848
+Perpignan,86,,42.6986,2.8956,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,minor,1751,120158,119188,2,Europe/Paris,FALSE,1250102680
+Boulogne-Billancourt,31,Boulogne-sur-Seine|Billancourt|Boulogne,48.8352,2.2409,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,19774.2,120071,120071,2,Europe/Paris,FALSE,1250978859
+Besançon,52,Becoinson,47.24,6.02,France,FR,FRA,Bourgogne-Franche-Comté,Bourgogne-Franche-Comte,FR-BFC,region,minor,1795.2,115934,115934,2,Europe/Paris,FALSE,1250182013
+Belfort,65,,47.64,6.85,France,FR,FRA,Bourgogne-Franche-Comté,Bourgogne-Franche-Comte,FR-BFC,region,minor,2745.8,114445,46954,2,Europe/Paris,FALSE,1250108238
+Saint-Denis,44,,48.9356,2.3539,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,9068.9,111135,111135,2,Europe/Paris,FALSE,1250935115
+Argenteuil,34,,48.95,2.25,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,6400.3,110210,110210,2,Europe/Paris,FALSE,1250226887
+Montreuil,88,Montreuil-sous-Bois,48.8611,2.4436,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,12368.3,109897,109897,2,Europe/Paris,FALSE,1250689747
+Caen,58,,49.18,-0.37,France,FR,FRA,Normandie,Normandie,FR-NOR,region,minor,4105.5,105354,105354,2,Europe/Paris,FALSE,1250001272
+Roubaix,73,,50.6901,3.1817,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,,7414.1,100000,98089,2,Europe/Paris,FALSE,1250000779
+Tourcoing,11,,50.7239,3.1612,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,,6414.9,97368,97368,2,Europe/Paris,FALSE,1250711716
+Nanterre,50,,48.8988,2.1969,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,7941.5,95105,95105,2,Europe/Paris,FALSE,1250886409
+Avignon,29,,43.95,4.8075,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,minor,1413.2,93671,91729,3,Europe/Paris,FALSE,1250645342
+Vitry-sur-Seine,71,Vitry,48.7875,2.3928,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,8110.5,93557,93557,2,Europe/Paris,FALSE,1250115605
+Épinal,89,,48.1744,6.4512,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,543.9,93184,32223,3,Europe/Paris,FALSE,1250137888
+Créteil,2,,48.7911,2.4628,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,8051,90605,90605,2,Europe/Paris,FALSE,1250710438
+Poitiers,37,,46.58,0.34,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,minor,2105.6,88291,88291,2,Europe/Paris,FALSE,1250812174
+Dunkerque,20,Dunkirk,51.0383,2.3775,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,minor,1979.2,87353,86865,3,Europe/Paris,FALSE,1250542305
+Aubervilliers,24,Aubervilles,48.9131,2.3831,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,10611.2,86375,86375,2,Europe/Paris,FALSE,1250470371
+Versailles,83,,48.8053,2.135,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,3254.6,85862,85205,2,Europe/Paris,FALSE,1250143827
+Aulnay-sous-Bois,55,Aulnay,48.9386,2.4906,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,5325.8,85740,85740,2,Europe/Paris,FALSE,1250420439
+Carrières-sur-Seine,74,Carrières,48.9108,2.2889,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,2988.6,85191,15003,2,Europe/Paris,FALSE,1250595706
+Colombes,49,,48.9236,2.2522,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,11018.2,85177,85177,2,Europe/Paris,FALSE,1250390247
+Courbevoic,68,,48.8978,2.2531,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,22962.9,81719,81719,2,Europe/Paris,FALSE,1250060303
+Rueil-Malmaison,61,Rueil,48.876,2.181,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,5305.2,78152,77986,2,Europe/Paris,FALSE,1250924511
+Champigny-sur-Marne,51,Champigny,48.8172,2.5156,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,6817.6,77630,77039,2,Europe/Paris,FALSE,1250631569
+Béziers,17,,43.3476,3.219,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,minor,812.7,77177,77177,3,Europe/Paris,FALSE,1250666824
+Pau,90,,43.3,-0.37,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,minor,2420.7,77130,76275,2,Europe/Paris,FALSE,1250041150
+La Rochelle,46,,46.1591,-1.1517,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,minor,2677.2,75735,75735,2,Europe/Paris,FALSE,1250623782
+Saint-Maur-des-Fossés,97,Saint-Maur|Saint-Maur-les-Fossés,48.7994,2.4997,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,6693.2,74859,74859,2,Europe/Paris,FALSE,1250687119
+Calais,38,,50.9481,1.8564,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,minor,2177,73911,72929,2,Europe/Paris,FALSE,1250081128
+Cannes,60,,43.5513,7.0128,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,,3769.9,73868,73868,2,Europe/Paris,FALSE,1250487828
+Antibes,62,,43.5808,7.1239,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,,2753.6,72999,72915,2,Europe/Paris,FALSE,1250213494
+Drancy,21,,48.93,2.45,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,9292.4,71318,71318,2,Europe/Paris,FALSE,1250144343
+Ajaccio,64,,41.9267,8.7369,France,FR,FRA,Corsica,Corsica,FR-H,region,admin,863.3,70659,70659,2,Europe/Paris,FALSE,1250622666
+Mérignac,82,Merignae,44.8386,-0.6436,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,,1470.1,70105,70105,3,Europe/Paris,FALSE,1250010536
+Saint-Nazaire,81,,47.2806,-2.2086,France,FR,FRA,Pays de la Loire,Pays de la Loire,FR-R,region,minor,1509.3,69993,69993,3,Europe/Paris,FALSE,1250133864
+Colmar,77,Kolmar,48.0817,7.3556,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,1032,69105,68703,3,Europe/Paris,FALSE,1250950647
+Issy-les-Moulineaux,0,Issy|Issy-les-Moulineau,48.8239,2.27,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,17210.4,68451,68260,2,Europe/Paris,FALSE,1250923546
+Noisy-le-Grand,78,Noisy,48.8478,2.5528,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,5260.7,68183,68126,2,Europe/Paris,FALSE,1250182208
+Courcouronnes,99,,48.6239,2.4294,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,3087,67967,13490,2,Europe/Paris,FALSE,1250579473
+Vénissieux,35,,45.6978,4.8867,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,,4378.9,65894,65894,2,Europe/Paris,FALSE,1250755963
+Cergy,91,,49.0361,2.0631,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,5692.9,65177,65177,2,Europe/Paris,FALSE,1250553439
+Bourges,36,,47.0844,2.3964,France,FR,FRA,Centre-Val de Loire,Centre-Val de Loire,FR-F,region,minor,940.8,64551,64551,3,Europe/Paris,FALSE,1250043242
+Levallois-Perret,59,Levallois,48.895,2.2872,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,28563.6,64379,64379,2,Europe/Paris,FALSE,1250809881
+La Seyne-sur-Mer,15,La Seyne,43.1,5.883,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,,2836.6,63936,62888,2,Europe/Paris,FALSE,1250392648
+Pessac,19,,44.8067,-0.6311,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,,1658.3,63808,63808,3,Europe/Paris,FALSE,1250292604
+Valence,67,,44.9333,4.8917,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,1764.1,63714,63714,3,Europe/Paris,FALSE,1250486068
+Quimper,53,,47.9967,-4.0964,France,FR,FRA,Bretagne,Bretagne,FR-E,region,minor,748,62985,62985,3,Europe/Paris,FALSE,1250490127
+Antony,30,,48.7539,2.2975,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,6575.1,62570,62570,2,Europe/Paris,FALSE,1250570123
+Ivry-sur-Seine,70,Ivry,48.8078,2.3747,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,10378.5,62052,62052,2,Europe/Paris,FALSE,1250904640
+Montélimar,92,,44.5581,4.7508,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,,842,61861,39415,3,Europe/Paris,FALSE,1250664551
+Troyes,40,,48.2997,4.0792,France,FR,FRA,Grand Est,Grand Est,FR-GES,region,minor,4696.7,61652,61652,2,Europe/Paris,FALSE,1250800856
+Clichy,28,Clicy,48.9044,2.3064,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,23019.2,61070,61070,2,Europe/Paris,FALSE,1250104726
+Cherbourg,10,,49.6333,-1.6,France,FR,FRA,Normandie,Normandie,FR-NOR,region,minor,2310.3,60991,60991,2,Europe/Paris,FALSE,1250026751
+Montauban,47,,44.0181,1.3558,France,FR,FRA,Occitanie,Occitanie,FR-OCC,region,minor,450.9,60810,60810,3,Europe/Paris,FALSE,1250412579
+Neuilly-sur-Seine,26,Neuilly,48.8881,2.2686,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,13338.4,60361,59940,2,Europe/Paris,FALSE,1250765188
+Chambéry,54,,45.57,5.9118,France,FR,FRA,Auvergne-Rhône-Alpes,Auvergne-Rhone-Alpes,FR-ARA,region,minor,2802.9,58919,58833,2,Europe/Paris,FALSE,1250283861
+Niort,72,,46.3258,-0.4606,France,FR,FRA,Nouvelle-Aquitaine,Nouvelle-Aquitaine,FR-NAQ,region,minor,866,58707,58707,3,Europe/Paris,FALSE,1250833218
+Sarcelles,66,Sarcelles-Lochère,48.9956,2.3808,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,minor,6959.9,58587,58587,2,Europe/Paris,FALSE,1250985562
+Pantin,7,,48.8966,2.4017,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,11788.4,57482,57482,2,Europe/Paris,FALSE,1250209071
+Lorient,22,,47.75,-3.36,France,FR,FRA,Bretagne,Bretagne,FR-E,region,minor,3265.7,57149,57084,2,Europe/Paris,FALSE,1250615711
+Le Blanc-Mesnil,27,,48.9387,2.4614,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,7099.4,56783,56783,2,Europe/Paris,FALSE,1250383006
+Beauvais,76,,49.4303,2.0952,France,FR,FRA,Hauts-de-France,Hauts-de-France,FR-HDF,region,minor,1699.3,56020,56020,3,Europe/Paris,FALSE,1250473996
+Maisons-Alfort,85,,48.8058,2.4378,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,10448.4,55655,55655,2,Europe/Paris,FALSE,1250000462
+Hyères,18,,43.1199,6.1316,France,FR,FRA,Provence-Alpes-Côte d’Azur,Provence-Alpes-Cote d'Azur,FR-U,region,,416,55588,55069,3,Europe/Paris,FALSE,1250566198
+Épinay-sur-Seine,32,Epinay,48.9553,2.3092,France,FR,FRA,Île-de-France,Ile-de-France,FR-J,region,,11984.9,55084,54771,2,Europe/Paris,FALSE,1250904959

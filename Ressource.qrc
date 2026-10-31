@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>temps.csv</file>
+        <file>villes.csv</file>
+    </qresource>
+</RCC>

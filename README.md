@@ -2,7 +2,7 @@
 
 Application de bureau (C++ / Qt) qui calcule le **temps de trajet en voiture entre deux villes de France** et affiche l'itinéraire le plus rapide, étape par étape.
 
-Projet réalisé en 2e année de BUT Informatique, seul. Stack : C++17, Qt 6 (Widgets), algorithme de Floyd-Warshall.
+Projet réalisé en 1re année de BUT Informatique, seul. Stack : C++17, Qt 6 (Widgets), algorithme de Floyd-Warshall.
 
 ![Capture de l'application : itinéraire Paris - Mulhouse en 367 minutes](docs/capture.png)
 
